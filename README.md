@@ -24,9 +24,13 @@ Até o momento nosso algoritmo roda em python puro com as bibliotecas matplotlib
 
 ### Integrantes da equipe:  
 Deividi Santos: []() .
+
 Icaro Pereira: []() .
+
 Ilmara Vitoria: []() .
+
 Laura Mendes: []() .
+
 Renato Hortêncio: [LinkedIn](https://www.linkedin.com/in/renato-hort%C3%AAncio/) [GitHub](github.com/RenatoHort)
 >usar barras e parenteses para embed de links
 
