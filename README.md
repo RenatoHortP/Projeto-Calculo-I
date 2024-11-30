@@ -1,4 +1,4 @@
-# Projeto final de Cálculo 1 | Grupo {nome do grupo} !
+# Projeto final de Cálculo 1 | Grupo Desconfigurados !
 
 Turma 07/24, integrantes (colocar no fim do readme na ultima edicao)
 Esse repositório foi uma forma que encontramos de poder compartilhar nosso projeto, seu funcionamento e uma mini documentação à parte do relatório oficial. 🧐
