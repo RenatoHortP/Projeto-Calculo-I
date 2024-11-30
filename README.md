@@ -36,15 +36,15 @@ Renato Hortêncio: [LinkedIn](https://www.linkedin.com/in/renato-hort%C3%AAncio/
 You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
 ```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
+flowchart TD
+    A("Início do app") --> B("Inserção dos dados")
+    B --> C("Carregamento da aplicação")
+    C --> D["fa:fa-rocket Resultados do lançamento"]
+    D -- "Encontrar Vel. Instant." --> E("Cálculo da velocidade")
+    D -- Finalizar --> G("fa:fa-comment-dots Fim da aplicação")
+    E -- Finalizar --> G
+    D@{ shape: rounded}
+    style G color:#FFFFFF, stroke:#00C853, fill:#00C853,stroke:#000000,fill:#616161
 ```
 
 And this will produce a flow chart:
