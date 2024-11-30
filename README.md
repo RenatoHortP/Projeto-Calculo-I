@@ -14,11 +14,7 @@ Esse repositório foi uma forma que encontramos de poder compartilhar nosso proj
 
 Nossa aplicação será portada para dispositivos móveis, já que é onde a maioria das pessoas têm maior tempo de conexão no dia a dia.
 
-![login](https://github.com/user-attachments/assets/6c7e5f8b-d758-430c-b17f-b08bb15a73db)
-
-![inicial](https://github.com/user-attachments/assets/aba92533-3a7c-4ea4-aefb-34dd365b0804)
-
-![Resultado](https://github.com/user-attachments/assets/4683eab1-dbba-41c3-b217-579fc059605b)
+![login](https://github.com/user-attachments/assets/6c7e5f8b-d758-430c-b17f-b08bb15a73db) ![inicial](https://github.com/user-attachments/assets/aba92533-3a7c-4ea4-aefb-34dd365b0804) ![Resultado](https://github.com/user-attachments/assets/4683eab1-dbba-41c3-b217-579fc059605b)
 
 
 ## Linguagens, bibliotecas e frameworks utilizados
