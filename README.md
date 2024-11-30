@@ -7,46 +7,32 @@ Esse repositório foi uma forma que encontramos de poder compartilhar nosso proj
 # Ideia do projeto
 
   * Depois de tantas ideias e debates, chegamos em uma conclusão de criar algoritmo capaz de simular lançamentos em de "Foguetes de garrafas pet" (mal sabiamos o quanto essa ideia escalaria 😅). Durante as reuniões e desenvolvimento surgiram diversas outras ideias das quais algumas foram aplicadas e outras ficaram para uma possibilidade futura.
-  * Nosso produto final é um algoritmo que realiza simulações de lançamentos na lua e em diferentes planetas do sistema solar 🪐
+  * Nosso produto final é um algoritmo que realiza simulações de lançamentos na lua terrestre e em diferentes planetas do sistema solar 🪐
 
 
 ## Utilização
 
-**Completar aqui**
+Nossa aplicação será portada para dispositivos móveis, já que é onde a maioria das pessoas têm maior tempo de conexão no dia a dia.
+
+![login](https://github.com/user-attachments/assets/6c7e5f8b-d758-430c-b17f-b08bb15a73db)
+
+![inicial](https://github.com/user-attachments/assets/aba92533-3a7c-4ea4-aefb-34dd365b0804)
+
+![Resultado](https://github.com/user-attachments/assets/4683eab1-dbba-41c3-b217-579fc059605b)
+
 
 ## Linguagens, bibliotecas e frameworks utilizados
 
-**Completar aqui** 
-
+Até o momento nosso algoritmo roda em python puro com as bibliotecas matplotlib, numpy e math. Futuramente iremos migrar para outra linguagem ou implementar um framework mais robusto.
 
 
 ### Integrantes da equipe:  
-Incluir nome, e LinkedIn/Git/Redes
->usar chaves e parenteses para embed de links
-
-
-## exemplo de SmartyPants (ascii)
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-
-## Exemplo de KaTeX (latex)
-
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
+Deividi Santos:
+Icaro Pereira: 
+Ilmara Vitoria: 
+Laura Mendes: 
+Renato Hortêncio: [LinkedIn](https://www.linkedin.com/in/renato-hort%C3%AAncio/) [GitHub](github.com/RenatoHort)
+>usar barras e parenteses para embed de links
 
 
 ## Como usar UML
